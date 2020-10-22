@@ -1,0 +1,9 @@
+C:\Users\vimal\Desktop\Stage 4\dockertest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vimal\Desktop\Stage 4\dockertest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vimal\Desktop\Stage 4\dockertest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vimal\Desktop\Stage 4\dockertest\obj\Debug\netcoreapp3.1\dockertest.csprojAssemblyReference.cache
+C:\Users\vimal\Desktop\Stage 4\dockertest\obj\Debug\netcoreapp3.1\dockertest.AssemblyInfoInputs.cache
+C:\Users\vimal\Desktop\Stage 4\dockertest\obj\Debug\netcoreapp3.1\dockertest.AssemblyInfo.cs
+C:\Users\vimal\Desktop\Stage 4\dockertest\obj\Debug\netcoreapp3.1\dockertest.RazorTargetAssemblyInfo.cache
+C:\Users\vimal\Desktop\Stage 4\dockertest\obj\Debug\netcoreapp3.1\staticwebassets\dockertest.StaticWebAssets.Manifest.cache
+C:\Users\vimal\Desktop\Stage 4\dockertest\obj\Debug\netcoreapp3.1\staticwebassets\dockertest.StaticWebAssets.xml
